@@ -62,6 +62,14 @@ A capstone project repository. See the repository README for its current scope, 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ramitl25727-cyber&bg_color=00000000&color=888888&line=6C5CE7&point=6C5CE7&area=true&hide_border=true" alt="GitHub contribution activity" />
 </div>
 
+
+## Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ramitl25727-cyber/ramitl25727-cyber/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%" />
+</div>
+
+
 ## Connect
 
 - GitHub: [@ramitl25727-cyber](https://github.com/ramitl25727-cyber)
