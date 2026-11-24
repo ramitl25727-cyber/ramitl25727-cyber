@@ -73,7 +73,7 @@ A capstone project repository. See the repository README for its current scope, 
 ## Connect
 
 - GitHub: [@ramitl25727-cyber](https://github.com/ramitl25727-cyber)
-- LinkedIn: add your profile URL here when ready
+- LinkedIn: [@ramit_layek](https://www.linkedin.com/in/ramit-layek-1022b9380/)
 - Portfolio: coming soon
 
 ---
